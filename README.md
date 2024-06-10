@@ -42,19 +42,13 @@ Follow these steps to set up the project on your local machine.
     python manage.py migrate
     ```
 
-5. **Create a superuser**:
-
-    ```sh
-    python manage.py createsuperuser
-    ```
-
-6. **Run the development server**:
+5. **Run the development server**:
 
     ```sh
     python manage.py runserver
     ```
 
-7. **Access the application**:
+6. **Access the application**:
     The application will be available at `http://localhost:8000`.
 
 ## Usage
